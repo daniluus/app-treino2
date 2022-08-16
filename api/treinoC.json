@@ -1,0 +1,64 @@
+[
+  {
+    "superior": [
+      {},
+      {
+        "id": 0,
+        "name": "Cadeira extensora (drop set)",
+        "config": "p3/j11",
+        "weight": "25/20/15"
+      },
+      {
+        "id": 1,
+        "name": "Agachamento no smith",
+        "config": "n/a",
+        "weight": "25"
+      },
+      {
+        "id": 4,
+        "name": "Mesa flexora (drop set)",
+        "config": "n/a",
+        "weight": "20"
+      },
+      {
+        "id": 5,
+        "name": "Cadeira flexora",
+        "config": "3s",
+        "weight": "7"
+      },
+      {
+        "id": 6,
+        "name": "Cadeira abdutora",
+        "config": "n/a",
+        "weight": "25"
+      },
+      {
+        "id": 7,
+        "name": "Cadeira abdutora",
+        "config": "n/a",
+        "weight": "25"
+      },
+      {
+        "id": 8,
+        "name": "Panturrilha sentado no aparelho",
+        "config": "15-20",
+        "weight": "05"
+      }
+    ],
+    "conjugado": [
+      {},            
+      {
+        "id": 2,
+        "name": "Leg pres horizontal",
+        "config": "n/a",
+        "weight": "10"
+      },
+      {
+        "id": 3,
+        "name": "Panturrilha leg press hor.",
+        "config": "15-20",
+        "weight": "20"
+      }
+    ]
+  }
+]
